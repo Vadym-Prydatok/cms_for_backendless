@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcms_for_backendless=self.webpackChunkcms_for_backendless||[]).push([[223],{223:s=>{s.exports=JSON.parse('[{"id":"dummyTable","title":"Dummy Table","order":1,"path":"tabs/dummyTable.js"},{"id":"dummyChart","title":"Dummy Chart","order":2,"path":"tabs/dummyChart.js"},{"id":"dummyList","title":"Dummy List","order":0,"path":"tabs/dummyList.js"}]')}}]);
